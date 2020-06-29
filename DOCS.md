@@ -37,5 +37,9 @@
     - recognize_sphinx()
     - recognize_wit()
 
+- To work with the microphones we will have to install PyAudio package in python.
 
+    - Microphone class:  to record audio using the microphone we will have a microphone class.
+
+    
 
